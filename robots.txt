@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mdr2.joaochesca.com.br/sitemap.xml

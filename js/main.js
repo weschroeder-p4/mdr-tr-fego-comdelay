@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
 (function () {
   // ⏱ CONFIGURAR AQUI o tempo em segundos para liberar a página
   // Ex.: 30 (30 segundos) | 720 (12 min) | 1320 (22 min)
-  var SECONDS_TO_DISPLAY = 30;
+  var SECONDS_TO_DISPLAY = 45;
 
   var displayed = false;
 
